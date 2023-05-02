@@ -6,6 +6,7 @@
 list01 = []
 list01 = list()
 # 默认值
+
 list02 = ["悟空", 100, True]
 list02 = list("我是物理大神")
 # 获取元素
